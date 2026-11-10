@@ -55,6 +55,11 @@ namespace Interfaz_KING_TECH.Modelos
             set { nombreCategoria = value; }
         }
 
+        public decimal ValorInventario
+        {
+            get { return precio * stock; }
+        }
+
         public Producto()
         {
         }
