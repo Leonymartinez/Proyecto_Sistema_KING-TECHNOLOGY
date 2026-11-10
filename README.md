@@ -1,7 +1,11 @@
 KING TECHNOLOGY – Sistema de Gestión de Productos
+
 Curso: Programación II
+
 Carrera: Ingeniería en Sistemas de Información
+
 Estudiante: Leony Hidalgo Martínez
+
 Universidad: Universidad Internacional San Isidro Labrador (UISIL)
 
 1. Descripción del sistema
