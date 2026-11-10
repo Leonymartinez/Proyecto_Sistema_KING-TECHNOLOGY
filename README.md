@@ -150,4 +150,4 @@ Durante el desarrollo del proyecto KING TECHNOLOGY se utilizo herramientas de in
 12. Autoría y alcance
 Este proyecto fue desarrollado como parte de la evaluación del curso Programación II. Su propósito es poner en práctica los contenidos del curso mediante una aplicación de escritorio que utiliza C#, Windows Forms, programación orientada a objetos, programación por capas y SQL Server.
 
-El script SQL del proyecto se encuentra en la carpeta Script del repositorio. Incluye las instrucciones utilizadas para crear la base de datos y sus tablas, así como los datos de prueba del proyecto
+
